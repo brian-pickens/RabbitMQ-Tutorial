@@ -4246,7 +4246,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
-      "RabbitMQ.Client"
+      "RabbitMQ.Client >= 5.1.0"
     ]
   },
   "packageFolders": {
@@ -4298,7 +4298,7 @@
           },
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[5.1.0, )"
           }
         },
         "imports": [
