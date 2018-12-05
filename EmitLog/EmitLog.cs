@@ -2,7 +2,7 @@
 using System.Text;
 using RabbitMQ.Client;
 
-class Program
+class EmitLog
 {
     public static void Main(params string[] args)
     {
